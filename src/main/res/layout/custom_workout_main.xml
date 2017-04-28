@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:id="@+id/roulette_line1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingTop="4dp">
+
+                    <TextView
+                        android:text="@string/workout"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tv_custom_exercise1"
+                        android:paddingStart="16dp"
+                        android:paddingEnd="16dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="8">
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_subtract_1"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_add_1"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+
+                        <TextView
+                            android:text="@string/_1_reps"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_reps1"
+                            android:padding="8dp"
+                            android:layout_weight="2"/>
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_subtract_1"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_add_1"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <TextView
+                            android:text="@string/_1_sets"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_sets1"
+                            android:layout_weight="2"
+                            android:padding="8dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/roulette_line2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingTop="4dp">
+
+                    <TextView
+                        android:text="@string/workout"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tv_custom_exercise2"
+                        android:paddingStart="16dp"
+                        android:paddingEnd="16dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="8">
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_subtract_2"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_add_2"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+
+                        <TextView
+                            android:text="@string/_1_reps"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_reps2"
+                            android:padding="8dp"
+                            android:layout_weight="2"/>
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_subtract_2"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_add_2"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <TextView
+                            android:text="@string/_1_sets"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_sets2"
+                            android:layout_weight="2"
+                            android:padding="8dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/roulette_line3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingTop="4dp">
+
+                    <TextView
+                        android:text="@string/workout"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tv_custom_exercise3"
+                        android:paddingStart="16dp"
+                        android:paddingEnd="16dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="8">
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_subtract_3"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_add_3"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+
+                        <TextView
+                            android:text="@string/_1_reps"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_reps3"
+                            android:padding="8dp"
+                            android:layout_weight="2"/>
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_subtract_3"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_add_3"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <TextView
+                            android:text="@string/_1_sets"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_sets3"
+                            android:layout_weight="2"
+                            android:padding="8dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/roulette_line4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingTop="4dp">
+
+                    <TextView
+                        android:text="@string/workout"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tv_custom_exercise4"
+                        android:paddingStart="16dp"
+                        android:paddingEnd="16dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="8">
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_subtract_4"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_add_4"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+
+                        <TextView
+                            android:text="@string/_1_reps"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_reps4"
+                            android:padding="8dp"
+                            android:layout_weight="2"/>
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_subtract_4"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_add_4"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <TextView
+                            android:text="@string/_1_sets"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_sets4"
+                            android:layout_weight="2"
+                            android:padding="8dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/roulette_line5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingTop="4dp">
+
+                    <TextView
+                        android:text="@string/workout"
+                        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tv_custom_exercise5"
+                        android:paddingStart="16dp"
+                        android:paddingEnd="16dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="8">
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_subtract_5"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/reps_add_5"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+
+                        <TextView
+                            android:text="@string/_1_reps"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_reps5"
+                            android:padding="8dp"
+                            android:layout_weight="2"/>
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_subtract_5"
+                            android:text="@string/minus"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <Button
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sets_add_5"
+                            android:text="@string/add"
+                            android:layout_weight="1"
+                            style="@style/Widget.AppCompat.Button.Small" />
+
+                        <TextView
+                            android:text="@string/_1_sets"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_custom_sets5"
+                            android:layout_weight="2"
+                            android:padding="8dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@android:drawable/ic_input_add"
+        android:tint="@android:color/white"
+        app:backgroundTint="@color/colorPrimary"/>
+
+</RelativeLayout>

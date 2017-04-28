@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sound_mixer"
+            android:icon="@drawable/ic_sound_mixer_icon"
+            android:title="@string/sound_mixer" />
+        <item
+            android:id="@+id/nav_timers"
+            android:icon="@drawable/ic_timer_icon"
+            android:title="@string/timers" />
+        <item
+            android:id="@+id/nav_workout_roulette"
+            android:icon="@drawable/ic_workout_roulette_icon"
+            android:title="@string/workout_roulette" />
+        <item
+            android:id="@+id/nav_custom_workout"
+            android:icon="@drawable/ic_custom_icon"
+            android:title="@string/custom_workout" />
+
+        <item
+            android:id="@+id/nav_workout_history"
+            android:icon="@drawable/ic_workout_history_icon"
+            android:title="@string/workout_history" />
+    </group>
+
+</menu>

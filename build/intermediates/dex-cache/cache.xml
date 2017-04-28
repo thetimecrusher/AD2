@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_1be0ade262184a859cbc484e1e5966dd9fc7214b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_cfdd4ed00726eceed82531426591aa30d80ff5ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec89a1c4c74f325d136c24b953797fa18f188683">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2b237069c909cacc1eb2e48a1dfce814426f04da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_e0b3785b8b28f3a30952b19285c32b1afa38b1a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_0eca09a6886a0b10834f097dbcc27920e3cb0574/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35ba58e0ae041ea388e825509153f10efc21d6fc">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98a644c8f9eab26e26263c90caba73987bf745f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.1.0_6d9ac7726a3018c2fa34d494c1b429df711bb223.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="632acdf7faa628faf06a3929ada7baf8998e3b6c">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8214142f0cf39ce40f02834af59f5d8f4b403540/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_658b67378c66680d492852bb79a4b1ca4e2218f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/support-annotations-25.1.0_b2fb9b8c4e3ba5768fd42ff5b33bdb9791260774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.1.0_e183dde25366d4fa6592fa45a1796ed44d9f23f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_985385d64e3d4ef058bc2a98e47fa91b5e47a740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_f63d1834268feb9fab186deece4491ea6b2a53f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_747e315a3973b7ba385ad1923acc4b7345aa6def/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_0cada3c4cb694e430a5e52b4b77dd381365d957e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_46d70b666d4b62980409deeb13f3f3c572dcc34d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_05c7f18ab8de56877747908d25c675a2b9d7e042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_b195b2e55bd459feb8e23c8b9ee246b6beba6fa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_d5b858babe73db4cc869f1c66c6ad999cc46f082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_dc88c93ee3493f2272530e4c0db00226a8ee48cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_7595e591f8ad6383d89fab3f7ebe6839903b0b5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.1.0_0eca09a6886a0b10834f097dbcc27920e3cb0574.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_daf91301753fe1bad0429f0f38580c5cb96b3c90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_119bf62e62152d0dec51a7ef93dd3a9d98335348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_b37247e1f83503cce807c9f7f26d7b6644f3ff45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_7474ed1a07cffb618bc225deddd514c4d69423a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.1.0_499785e8c8e2b96bbac9dc29531b485bdcba665f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_74293223ee5d1dca71f3e33077b57c18c23a4c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebe27b721b2ce2af2c7839a6d76e78251adb5e28">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d1c2edc502c599ac10e0ebebe77838c9816feeee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eebb003300c2189d0238915822d873a36d3f1e40">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a3ffc4a37869ea007a7f56d853168b6bdbed51c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.1.0_1be0ade262184a859cbc484e1e5966dd9fc7214b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_574dafe2c0f2873871231308ce5e39560863e348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_b2fb9b8c4e3ba5768fd42ff5b33bdb9791260774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_5f044565d9abf5d19346ffc236e65f47abf22e7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_6d9ac7726a3018c2fa34d494c1b429df711bb223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_e183dde25366d4fa6592fa45a1796ed44d9f23f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.1.0_985385d64e3d4ef058bc2a98e47fa91b5e47a740.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f867c34d7e5a3f0fd88836f0756acc1036695610/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.1.0_05c7f18ab8de56877747908d25c675a2b9d7e042.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0880049cde875fe6789454857893edd585224925">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_589c94aeb36bb2f5194f6316319def166c7b801a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_525532b55ad4ea70e0e806d9e628af21c200b570/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_499785e8c8e2b96bbac9dc29531b485bdcba665f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.1.0_b37247e1f83503cce807c9f7f26d7b6644f3ff45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_219f0d8734139cf679cabe7603828220b204f853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_7e6a3cb4d2cc2aa0cbba17e3d631809932c03f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.1.0_b195b2e55bd459feb8e23c8b9ee246b6beba6fa2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_536b98643d6009bc0f31661fffc14783f1ab7b8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week4/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_e734a430d279ce02adc544599dd8cb2dc173c0cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_884570eccc9c18156dfee8a702469ae00a35731d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-design-25.1.0_119bf62e62152d0dec51a7ef93dd3a9d98335348.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_3d930d48908bcf541c1fa67dcb26649ca359b4f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.1.0_74293223ee5d1dca71f3e33077b57c18c23a4c09.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_e25934e2c621c32b4939523845c5c3aa49e86657/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_75189f830f2f20b6ff79982d7ef015ed90051ed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week2/FawcettKeithWorkoutEssentials/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.1.0_7595e591f8ad6383d89fab3f7ebe6839903b0b5e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/keithfawcett/Desktop/Classes/24AD2/Week3/FawcettKeithWorkoutEssentials/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_f560bda654f383cd9b15374832770f163f9ae736/classes.dex" />
+    </item>
+
+</items>
